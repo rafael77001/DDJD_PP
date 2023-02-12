@@ -40,7 +40,6 @@ COLURVIVE
 
 dyeORdie
 
-
 ### TODO
 mexer o jogador
 mexer o inimigo (MOSCA)
