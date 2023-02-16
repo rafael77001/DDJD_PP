@@ -2,6 +2,12 @@ DYE_or_DIE
 # TEMA
 CORES 
 
+Somos os maus
+Estamos a atacar o oceano (poluir)
+As criaturas do oceano saem para o proteger
+Estamos numa ilha a tentar defender-nos
+Cores ciano -> roxo? preto?
+
 ## ARMAS 
 PISTOLA (paintball)
 BOMBA (explosão de cor)
@@ -42,6 +48,7 @@ dyeORdie
 
 
 ### TODO
+definir tema
 mexer o jogador
 mexer o inimigo (MOSCA)
 colisoes
@@ -49,6 +56,7 @@ pontos de vida
 jogador defender-se (pistola)
 score
 Powerups (mover/disparar)
+cenario v0.5
 
 jogador defender-se (bomba)
 Lata de tinta (vida)
