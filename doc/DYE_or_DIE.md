@@ -46,7 +46,6 @@ COLURVIVE
 
 dyeORdie
 
-
 ### TODO
 definir tema
 mexer o jogador
