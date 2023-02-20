@@ -63,3 +63,9 @@ polvo
 Powerups (boost score/escudo)
 cenario
 
+#### mexer a mosca
+1. criar a mosca (aspeto)
+2. mover o boneco
+
+eventualmente sprite 8d para mosca (imenso trabalho)
+
