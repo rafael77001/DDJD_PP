@@ -2514,3 +2514,98 @@ UnknownFunction []
 [2023.02.23-16.52.12:925][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2023.02.23-16.52.12:947][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
 [2023.02.23-16.52.13:087][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.23-16.54.30:854][229]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.02.23-16.54.30:854][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.23-16.54.32:523][229]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.02.23-16.56.21:697][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.23-16.56.21:798][ 40]LogSavePackage: Moving output files for package: /Game/Character/BP_blueChar
+[2023.02.23-16.56.21:800][ 40]LogSavePackage: Moving '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_blueCharDE498CFD4B559FAF7523049B3B5BBBA3.tmp' to '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/BP_blueChar.uasset'
+[2023.02.23-16.56.21:818][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.84 sec)
+[2023.02.23-16.56.21:832][ 40]AssetCheck: New page: Asset Save: BP_blueChar
+[2023.02.23-16.56.21:832][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.02.23-16.56.22:275][ 46]BlueprintLog: New page: Compile BP_blueChar
+[2023.02.23-16.56.22:308][ 46]LogBlueprint: Error: [AssetLog] C:\Users\isabe\OneDrive\Ambiente de Trabalho\FEUP\FEUP_4\2_semestre\DDJD\DDJD_PP\src\DyeOrDie\Content\Character\BP_blueChar.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2023.02.23-16.56.22:309][ 46]LogBlueprint: Error: [AssetLog] C:\Users\isabe\OneDrive\Ambiente de Trabalho\FEUP\FEUP_4\2_semestre\DDJD\DDJD_PP\src\DyeOrDie\Content\Character\BP_blueChar.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.02.23-16.56.22:508][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.02.23-16.56.54:177][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.23-16.56.54:276][280]LogSavePackage: Moving output files for package: /Game/Character/BP_blueChar
+[2023.02.23-16.56.54:277][280]LogSavePackage: Moving '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_blueChar82C7436C4F8B5BF38B2F3DBA918E9864.tmp' to '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/BP_blueChar.uasset'
+[2023.02.23-16.56.54:299][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.96 sec)
+[2023.02.23-16.56.54:311][280]AssetCheck: New page: Asset Save: BP_blueChar
+[2023.02.23-16.56.54:311][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.02.23-16.56.54:625][285]BlueprintLog: New page: Compile BP_blueChar
+[2023.02.23-16.56.54:834][285]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2023.02.23-16.56.58:673][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.23-16.56.58:761][312]LogSavePackage: Moving output files for package: /Game/Character/BP_blueChar
+[2023.02.23-16.56.58:763][312]LogSavePackage: Moving '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_blueChar0E502F954F3725D739B74A9C70197D15.tmp' to '../../../../../../Users/isabe/OneDrive/Ambiente de Trabalho/FEUP/FEUP_4/2_semestre/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/BP_blueChar.uasset'
+[2023.02.23-16.56.58:787][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.07 sec)
+[2023.02.23-16.56.58:800][312]AssetCheck: New page: Asset Save: BP_blueChar
+[2023.02.23-16.56.58:800][312]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.02.23-16.56.59:844][322]LogSlate: Window 'BP_blueChar' being destroyed
+[2023.02.23-16.56.59:951][322]LogSlate: Window 'BP_blueChar' being destroyed
+[2023.02.23-16.56.59:972][322]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.23-16.56.59:972][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.23-16.57.01:495][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.23-16.57.01:514][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.23-16.57.01:514][334]PIE: New page: PIE session: basicMap (23/02/2023, 16:57:01)
+[2023.02.23-16.57.01:515][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.02.23-16.57.01:527][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011550s)
+[2023.02.23-16.57.01:527][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.011647s)
+[2023.02.23-16.57.01:527][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.23-16.57.01:528][334]LogAIModule: Creating AISystem for world basicMap
+[2023.02.23-16.57.01:529][334]LogPlayLevel: PIE: World Init took: (0.002557s)
+[2023.02.23-16.57.01:649][334]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2023.02.23-16.57.01:663][334]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.02.23-16.57.01:663][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.23-16.57.01:663][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.23-16.57.01:664][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.23-16.57.01:664][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.23-16.57.01:664][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.23-16.57.01:664][334]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.23-16.57.01:664][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.23-16.57.01:664][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.23-16.57.01:665][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.23-16.57.01:665][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.23-16.57.01:665][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.23-16.57.01:670][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.23-16.57.01:804][334]LogAudioMixer: Display: Using Audio Hardware Device Altifalantes (Realtek(R) Audio)
+[2023.02.23-16.57.01:805][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.23-16.57.01:805][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.23-16.57.01:805][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.23-16.57.01:805][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.02.23-16.57.01:806][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.02.23-16.57.01:811][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.02.23-16.57.01:811][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.02.23-16.57.01:811][334]LogInit: FAudioDevice initialized.
+[2023.02.23-16.57.01:811][334]LogAudio: Display: Audio Device (ID: 14) registered with world 'basicMap'.
+[2023.02.23-16.57.01:815][334]LogLoad: Game class is 'GM_base_C'
+[2023.02.23-16.57.01:817][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.02.23-16.57.01
+[2023.02.23-16.57.01:817][334]LogWorld: Bringing up level for play took: 0.002097
+[2023.02.23-16.57.01:823][334]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.02.23-16.57.01:828][334]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.02.23-16.57.01:829][334]PIE: Server logged in
+[2023.02.23-16.57.01:831][334]PIE: Play in editor total start time 0,317 seconds.
+[2023.02.23-16.57.14:414][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.23-16.57.14:415][445]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.02.23-16.57.14:415][445]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.23-16.57.14:415][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.23-16.57.14:602][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.23-16.57.14:614][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.23-16.57.14:716][445]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.23-16.57.14:717][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.23-16.57.14:723][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.02.23-16.57.14:749][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.23-16.57.14:755][445]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.02.23-16.57.14:887][446]LogPlayLevel: Display: Destroying online subsystem :Context_27
