@@ -52,20 +52,32 @@ mexer o jogador
 mexer o inimigo (MOSCA)
 colisoes
 pontos de vida
-jogador defender-se (pistola)
+jogador defender-se (bomba)
 score
-Powerups (mover/disparar)
 cenario v0.5
 
-jogador defender-se (bomba)
+Powerups (mover/disparar)
+jogador defender-se (pistola)
 Lata de tinta (vida)
 polvo
 Powerups (boost score/escudo)
-cenario
+cenario (agua/oceano)
 
-#### mexer a mosca
-1. criar a mosca (aspeto)
-2. mover o boneco
 
-eventualmente sprite 8d para mosca (imenso trabalho)
+#### TODO
+change main character
 
+set up bomba:
+    * sprite da bomba
+    * sprite de explosão
+    * lançar
+    * explodir
+
+missing puffer fish:
+    * death animation
+    * respawn!!!
+
+score
+
+cenario:
+    * arranjar um barco (porta avioes em unreal)
