@@ -68,14 +68,11 @@ cenario (agua/oceano)
 change main character
 
 set up bomba:
-    * sprite da bomba
-    * sprite de explosão
-    * lançar
-    * explodir
+    * sprite de explosão (falta implementar)
 
 missing puffer fish:
-    * death animation
-    * respawn!!!
+    * death animation (falta implementar)
+    * respawn!!! 
 
 score
 
