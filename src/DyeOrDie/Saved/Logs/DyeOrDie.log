@@ -1182,3 +1182,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.27-21.49.41:212][  0]LogDerivedDataCache: C:/Users/Rafae/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.238 and deleted 0 files with total size 0 MiB. Scanned 3430 files in 3411 folders with total size 70 MiB.
 [2023.02.27-22.49.41:156][  0]LogDerivedDataCache: C:/Users/Rafae/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.186 and deleted 0 files with total size 0 MiB. Scanned 3431 files in 3412 folders with total size 70 MiB.
 [2023.02.27-22.58.16:463][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.02.27-23.49.41:176][  0]LogDerivedDataCache: C:/Users/Rafae/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.206 and deleted 0 files with total size 0 MiB. Scanned 3431 files in 3412 folders with total size 70 MiB.
