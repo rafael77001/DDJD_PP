@@ -1,2 +1,2 @@
 *.log
-.src/DyeOrDie/Saved/Crashes/*
+src/DyeOrDie/Saved/*
