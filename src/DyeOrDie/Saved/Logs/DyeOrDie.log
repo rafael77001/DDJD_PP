@@ -2189,3 +2189,138 @@ UnknownFunction []
 [2023.03.02-21.55.44:900][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
 [2023.03.02-21.55.44:935][265]LogPlayLevel: Display: Destroying online subsystem :Context_18
 [2023.03.02-21.55.52:666][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.02-21.57.14:491][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.57.14:636][333]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.57.14:637][333]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFish8964CFB649B19DBCF6BCF6A2B060B2BB.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.57.14:654][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 4.17 sec)
+[2023.03.02-21.57.14:664][333]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.57.14:665][333]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-22.00.30:050][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-22.00.30:212][145]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-22.00.30:212][145]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFish9488C74D404839B8C7EC63B02292A718.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-22.00.30:235][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 4.36 sec)
+[2023.03.02-22.00.30:252][145]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-22.00.30:252][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-22.01.28:020][518]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_base.GM_base
+[2023.03.02-22.01.28:021][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-22.01.38:002][813]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.02-22.01.38:026][813]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.02-22.01.38:062][814]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.02-22.01.48:464][200]LogContentBrowser: Attempting asset rename: NewFolder -> Drops
+[2023.03.02-22.01.48:465][200]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.02-22.02.16:531][277]LogContentBrowser: Attempting asset rename: Drops -> Drops
+[2023.03.02-22.02.25:462][629]LogContentBrowser: Attempting asset rename: Drops -> Drops
+[2023.03.02-22.03.49:969][368]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.03.02-22.03.49:970][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-22.03.51:191][368]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: ================================================
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: Total job queries 129, among them cache hits 16 (12.40%)
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: Tracking 113 distinct input hashes that result in 92 distinct outputs (81.42%)
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: RAM used: 0.93 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.11%
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.02-22.03.51:413][370]LogShaderCompilers: Display: ================================================
+[2023.03.02-22.04.01:260][687]LogSlate: Took 0.006890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.02-22.04.43:742][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.03.02-22.04.43:743][663]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/basicMap' took 0.105
+[2023.03.02-22.04.43:747][663]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/BP_blueChar] ([2] browsable assets)...
+[2023.03.02-22.04.43:747][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/BP_blueChar]
+[2023.03.02-22.04.43:783][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character/BP_blueChar_Auto1
+[2023.03.02-22.04.43:785][663]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_blueChar_Auto11A47C187468D992DEDC5D0B6F23D711F.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/Autosaves/Game/Character/BP_blueChar_Auto1.uasset'
+[2023.03.02-22.04.43:788][663]LogFileHelpers: Auto-saving content packages took 0.042
+[2023.03.02-22.06.02:649][889]BlueprintLog: New page: Compile BP_blueChar
+[2023.03.02-22.06.02:846][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.03.02-22.06.43:876][424]BlueprintLog: New page: Compile BP_blueChar
+[2023.03.02-22.06.44:090][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.03.02-22.07.38:165][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-22.07.38:293][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_blueChar" FILE="../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/BP_blueChar.uasset" SILENT=true
+[2023.03.02-22.07.38:331][392]LogSavePackage: Moving output files for package: /Game/Character/BP_blueChar
+[2023.03.02-22.07.38:332][392]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_blueCharE39705B140771893CD627F84C4E15CD9.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/BP_blueChar.uasset'
+[2023.03.02-22.07.38:354][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 4.54 sec)
+[2023.03.02-22.07.38:365][392]AssetCheck: New page: Asset Save: BP_blueChar
+[2023.03.02-22.07.38:366][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_blueChar.BP_blueChar
+[2023.03.02-22.07.42:428][547]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.02-22.07.42:443][547]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-22.07.42:449][547]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-22.07.42:549][547]LogPlayLevel: [PlayLevel] Compiling BP_blueChar before play...
+[2023.03.02-22.07.42:794][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.02-22.07.42:795][547]LogPlayLevel: PlayLevel: Blueprint regeneration took 352 ms (2 blueprints)
+[2023.03.02-22.07.42:796][547]PIE: New page: PIE session: basicMap (2 Mar 2023, 22:07:42)
+[2023.03.02-22.07.42:796][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-22.07.42:801][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004465s)
+[2023.03.02-22.07.42:801][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.004520s)
+[2023.03.02-22.07.42:801][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-22.07.42:802][547]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-22.07.42:802][547]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2023.03.02-22.07.42:899][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.02-22.07.42:900][547]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-22.07.42:900][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-22.07.42:900][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-22.07.42:901][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-22.07.42:901][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-22.07.42:901][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-22.07.42:904][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-22.07.42:927][547]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-22.07.42:927][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-22.07.42:927][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-22.07.42:927][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-22.07.42:928][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.03.02-22.07.42:928][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.03.02-22.07.42:931][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.03.02-22.07.42:931][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.03.02-22.07.42:931][547]LogInit: FAudioDevice initialized.
+[2023.03.02-22.07.42:931][547]LogAudio: Display: Audio Device (ID: 13) registered with world 'basicMap'.
+[2023.03.02-22.07.42:935][547]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-22.07.42:937][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-22.07.42
+[2023.03.02-22.07.42:937][547]LogWorld: Bringing up level for play took: 0.001214
+[2023.03.02-22.07.42:940][547]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.03.02-22.07.42:943][547]PIE: Server logged in
+[2023.03.02-22.07.42:944][547]PIE: Play in editor total start time 0.501 seconds.
+[2023.03.02-22.07.46:436][605]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-22.07.46:438][605]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-22.07.46:438][605]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-22.07.46:439][605]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-22.07.50:106][822]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-22.07.52:205][941]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-22.07.54:221][ 22]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-22.07.56:229][ 98]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-22.07.57:229][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-22.07.57:229][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-22.07.57:230][154]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-22.07.57:230][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-22.07.57:238][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-22.07.57:249][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-22.07.57:352][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-22.07.57:353][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.02-22.07.57:355][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.02-22.07.57:364][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.02-22.07.57:398][155]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.02-22.08.08:036][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-22.08.08:278][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.03.02-22.08.08:296][550]LogSavePackage: Moving output files for package: /Game/Maps/basicMap
+[2023.03.02-22.08.08:298][550]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/basicMapF417659C4FD4262E6BA0E087E7B13D9D.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Maps/basicMap.umap'
+[2023.03.02-22.08.08:321][550]LogFileHelpers: Saving map 'basicMap' took 0.144
+[2023.03.02-22.08.08:343][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 4.85 sec)
+[2023.03.02-22.08.08:354][550]AssetCheck: New page: Asset Save: basicMap
+[2023.03.02-22.08.08:354][550]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/basicMap.basicMap
