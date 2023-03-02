@@ -1737,3 +1737,455 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.02-21.43.58:625][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
 [2023.03.02-21.44.09:112][232]LogDebuggerCommands: Repeating last play command: Standalone Game
 [2023.03.02-21.44.09:264][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2023.03.02-21.48.29:328][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.48.29:478][731]LogSavePackage: Moving output files for package: /Game/Character/Weapons/BP_grenade
+[2023.03.02-21.48.29:478][731]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_grenadeBF6641964C7B8D0A7B5C11AE1C4740EB.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/Weapons/BP_grenade.uasset'
+[2023.03.02-21.48.29:500][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 2.62 sec)
+[2023.03.02-21.48.29:514][731]AssetCheck: New page: Asset Save: BP_grenade
+[2023.03.02-21.48.29:514][731]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Weapons/BP_grenade.BP_grenade
+[2023.03.02-21.48.30:410][764]BlueprintLog: New page: Compile BP_grenade
+[2023.03.02-21.48.30:552][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.03.02-21.48.48:650][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.48.48:803][468]LogSavePackage: Moving output files for package: /Game/Character/Weapons/BP_grenade
+[2023.03.02-21.48.48:804][468]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_grenade2E57100D4E0571B66ECBA2BCF70511D8.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/Weapons/BP_grenade.uasset'
+[2023.03.02-21.48.48:826][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 2.79 sec)
+[2023.03.02-21.48.48:846][468]AssetCheck: New page: Asset Save: BP_grenade
+[2023.03.02-21.48.48:846][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Weapons/BP_grenade.BP_grenade
+[2023.03.02-21.49.40:156][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.49.40:304][481]LogSavePackage: Moving output files for package: /Game/Character/Weapons/BP_grenade
+[2023.03.02-21.49.40:304][481]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_grenadeD155716044DC1A77C70FF2876137DCC1.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Character/Weapons/BP_grenade.uasset'
+[2023.03.02-21.49.40:322][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 2.96 sec)
+[2023.03.02-21.49.40:334][481]AssetCheck: New page: Asset Save: BP_grenade
+[2023.03.02-21.49.40:334][481]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Weapons/BP_grenade.BP_grenade
+[2023.03.02-21.49.48:250][747]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.49.48:250][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.49.49:527][747]LogClass: Warning: Short type name "PrimitiveComponent" provided for TryFindType. Please convert it to a path name (suggested: "/Script/Engine.PrimitiveComponent"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.03.02-21.51.04:465][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.51.04:616][353]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.51.04:617][353]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFishC3D1E8A548DD86F7AECC33A1CD4AFDBB.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.51.04:637][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.13 sec)
+[2023.03.02-21.51.04:649][353]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.51.04:649][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.52.13:663][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.52.13:819][909]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.52.13:820][909]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFishE7D332A7422C634EF01EEBB62940B059.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.52.13:837][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 3.30 sec)
+[2023.03.02-21.52.13:849][909]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.52.13:849][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.52.18:919][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-21.52.18:934][114]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-21.52.19:124][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.03.02-21.52.19:126][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 205 ms (1 blueprints)
+[2023.03.02-21.52.19:126][114]PIE: New page: PIE session: basicMap (2 Mar 2023, 21:52:19)
+[2023.03.02-21.52.19:128][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.52.19:134][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005980s)
+[2023.03.02-21.52.19:134][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.006069s)
+[2023.03.02-21.52.19:134][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.52.19:135][114]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-21.52.19:135][114]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2023.03.02-21.52.19:228][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.03.02-21.52.19:229][114]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-21.52.19:229][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-21.52.19:229][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-21.52.19:231][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-21.52.19:231][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-21.52.19:231][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-21.52.19:233][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-21.52.19:266][114]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-21.52.19:267][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-21.52.19:267][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-21.52.19:267][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-21.52.19:268][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.03.02-21.52.19:268][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.03.02-21.52.19:271][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.03.02-21.52.19:271][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.03.02-21.52.19:271][114]LogInit: FAudioDevice initialized.
+[2023.03.02-21.52.19:271][114]LogAudio: Display: Audio Device (ID: 8) registered with world 'basicMap'.
+[2023.03.02-21.52.19:275][114]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-21.52.19:278][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-21.52.19
+[2023.03.02-21.52.19:278][114]LogWorld: Bringing up level for play took: 0.002101
+[2023.03.02-21.52.19:281][114]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.03.02-21.52.19:284][114]PIE: Server logged in
+[2023.03.02-21.52.19:285][114]PIE: Play in editor total start time 0.366 seconds.
+[2023.03.02-21.52.21:224][155]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.21:225][155]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.21:226][155]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.21:227][155]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.21:739][181]LogViewport: Scene viewport resized to 1288x358, mode Windowed.
+[2023.03.02-21.52.21:796][183]LogViewport: Scene viewport resized to 1288x373, mode Windowed.
+[2023.03.02-21.52.21:854][185]LogViewport: Scene viewport resized to 1288x389, mode Windowed.
+[2023.03.02-21.52.21:895][186]LogViewport: Scene viewport resized to 1288x406, mode Windowed.
+[2023.03.02-21.52.21:958][188]LogViewport: Scene viewport resized to 1288x423, mode Windowed.
+[2023.03.02-21.52.21:989][189]LogViewport: Scene viewport resized to 1288x427, mode Windowed.
+[2023.03.02-21.52.22:033][190]LogViewport: Scene viewport resized to 1288x434, mode Windowed.
+[2023.03.02-21.52.22:094][192]LogViewport: Scene viewport resized to 1288x442, mode Windowed.
+[2023.03.02-21.52.22:143][194]LogViewport: Scene viewport resized to 1288x449, mode Windowed.
+[2023.03.02-21.52.22:191][196]LogViewport: Scene viewport resized to 1288x461, mode Windowed.
+[2023.03.02-21.52.22:244][198]LogViewport: Scene viewport resized to 1288x465, mode Windowed.
+[2023.03.02-21.52.22:330][202]LogViewport: Scene viewport resized to 1288x467, mode Windowed.
+[2023.03.02-21.52.25:988][404]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.52.27:697][498]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.52.29:868][622]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-21.52.30:777][674]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-21.52.32:268][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:269][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:270][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:271][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:273][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:274][762]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.32:303][764]LogCharacterMovement: BP_pufferFish_C_5 is stuck and failed to move! Velocity: X=-31.38 Y=13.43 Z=0.00 Location: X=1200.00 Y=-1167.33 Z=24.55 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:25.496 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.52.32:303][764]LogCharacterMovement: BP_pufferFish_C_9 is stuck and failed to move! Velocity: X=0.36 Y=-34.13 Z=0.00 Location: X=-1200.00 Y=1238.59 Z=25.23 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:24.821 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.52.36:225][988]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.52.37:505][ 58]LogBlueprintUserMessages: [BP_grenade_C_6] destroyed puffer fish
+[2023.03.02-21.52.37:505][ 58]LogBlueprintUserMessages: [BP_grenade_C_6] destroyed puffer fish
+[2023.03.02-21.52.38:910][137]LogBlueprintUserMessages: [BP_grenade_C_7] destroyed puffer fish
+[2023.03.02-21.52.38:910][137]LogBlueprintUserMessages: [BP_grenade_C_7] destroyed puffer fish
+[2023.03.02-21.52.40:254][215]LogBlueprintUserMessages: [BP_grenade_C_8] destroyed puffer fish
+[2023.03.02-21.52.41:744][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:747][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:749][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:750][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:751][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:751][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:752][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:752][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:754][302]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.41:783][304]LogCharacterMovement: BP_pufferFish_C_15 is stuck and failed to move! Velocity: X=1.79 Y=35.90 Z=0.00 Location: X=-1200.00 Y=-1170.00 Z=21.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:28.979 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.52.42:109][323]LogCharacterMovement: BP_pufferFish_C_18 is stuck and failed to move! Velocity: X=3.04 Y=-36.30 Z=0.00 Location: X=-1200.00 Y=1230.00 Z=20.00 Normal: X=-0.10 Y=-0.10 Z=-0.99 PenetrationDepth:38.418 Actor:BP_pufferFish_C_17 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.03.02-21.52.42:129][324]LogCharacterMovement: BP_pufferFish_C_11 is stuck and failed to move! Velocity: X=-32.28 Y=15.57 Z=0.00 Location: X=1200.00 Y=-1170.00 Z=20.00 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:30.050 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.52.42:541][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.52.42:542][345]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.52.42:542][345]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-21.52.42:542][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.52.42:553][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-21.52.42:563][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.52.42:646][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.52.42:647][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.02-21.52.42:649][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.03.02-21.52.42:665][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.02-21.52.42:699][346]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.02-21.52.50:890][663]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.52.51:055][663]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.52.51:056][663]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFish5934026A4DA093757E80AEA36E9A82F3.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.52.51:074][663]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 3.49 sec)
+[2023.03.02-21.52.51:086][663]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.52.51:086][663]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.52.52:894][722]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.02-21.52.52:908][722]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-21.52.52:913][722]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-21.52.53:085][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.02-21.52.53:088][722]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (1 blueprints)
+[2023.03.02-21.52.53:088][722]PIE: New page: PIE session: basicMap (2 Mar 2023, 21:52:53)
+[2023.03.02-21.52.53:088][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.52.53:091][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004572s)
+[2023.03.02-21.52.53:093][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.004623s)
+[2023.03.02-21.52.53:093][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.52.53:093][722]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-21.52.53:094][722]LogPlayLevel: PIE: World Init took: (0.001295s)
+[2023.03.02-21.52.53:181][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.03.02-21.52.53:182][722]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-21.52.53:182][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-21.52.53:182][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-21.52.53:183][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-21.52.53:183][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-21.52.53:183][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-21.52.53:185][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-21.52.53:210][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-21.52.53:211][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-21.52.53:211][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-21.52.53:211][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-21.52.53:212][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.03.02-21.52.53:212][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.03.02-21.52.53:215][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.03.02-21.52.53:215][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.03.02-21.52.53:215][722]LogInit: FAudioDevice initialized.
+[2023.03.02-21.52.53:215][722]LogAudio: Display: Audio Device (ID: 9) registered with world 'basicMap'.
+[2023.03.02-21.52.53:219][722]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-21.52.53:220][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-21.52.53
+[2023.03.02-21.52.53:221][722]LogWorld: Bringing up level for play took: 0.001359
+[2023.03.02-21.52.53:224][722]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.03.02-21.52.53:227][722]PIE: Server logged in
+[2023.03.02-21.52.53:228][722]PIE: Play in editor total start time 0.32 seconds.
+[2023.03.02-21.52.55:272][779]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.55:273][779]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.55:274][779]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.55:275][779]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.52.59:023][998]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.53.00:722][ 93]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.53.02:839][215]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-21.53.03:934][280]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-21.53.05:434][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.05:436][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.05:438][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.05:439][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.05:439][364]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.05:470][366]LogCharacterMovement: BP_pufferFish_C_6 is stuck and failed to move! Velocity: X=-29.52 Y=-17.13 Z=0.00 Location: X=1200.00 Y=1232.68 Z=21.63 Normal: X=-0.00 Y=0.85 Z=0.52 PenetrationDepth:25.125 Actor:BP_enemySpawner_C_1 Component:EverythingLibrary_Animals_001_alt356 BoneName:None (0 other events since notify)
+[2023.03.02-21.53.06:573][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.53.06:573][430]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.53.06:574][430]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-21.53.06:574][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.53.06:589][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-21.53.06:600][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.53.06:690][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.53.06:690][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.02-21.53.06:692][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.03.02-21.53.06:705][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.03.02-21.53.06:741][431]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.02-21.53.45:673][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.53.45:831][857]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.53.45:832][857]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFishAD7488C64BE9C521896BC489DFE24AA2.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.53.45:850][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.67 sec)
+[2023.03.02-21.53.45:863][857]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.53.45:863][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.53.48:058][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.02-21.53.48:071][940]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-21.53.48:075][940]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-21.53.48:244][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.03.02-21.53.48:246][940]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (1 blueprints)
+[2023.03.02-21.53.48:246][940]PIE: New page: PIE session: basicMap (2 Mar 2023, 21:53:48)
+[2023.03.02-21.53.48:272][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.53.48:281][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009337s)
+[2023.03.02-21.53.48:281][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.009478s)
+[2023.03.02-21.53.48:281][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.53.48:282][940]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-21.53.48:283][940]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2023.03.02-21.53.48:363][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.03.02-21.53.48:365][940]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-21.53.48:365][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-21.53.48:365][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-21.53.48:366][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-21.53.48:366][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-21.53.48:366][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-21.53.48:368][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-21.53.48:392][940]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-21.53.48:392][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-21.53.48:392][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-21.53.48:392][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-21.53.48:393][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.03.02-21.53.48:394][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.03.02-21.53.48:396][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.03.02-21.53.48:396][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.03.02-21.53.48:396][940]LogInit: FAudioDevice initialized.
+[2023.03.02-21.53.48:396][940]LogAudio: Display: Audio Device (ID: 10) registered with world 'basicMap'.
+[2023.03.02-21.53.48:399][940]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-21.53.48:400][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-21.53.48
+[2023.03.02-21.53.48:401][940]LogWorld: Bringing up level for play took: 0.001415
+[2023.03.02-21.53.48:404][940]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.03.02-21.53.48:407][940]PIE: Server logged in
+[2023.03.02-21.53.48:408][940]PIE: Play in editor total start time 0.337 seconds.
+[2023.03.02-21.53.50:044][  6]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.50:046][  6]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.50:048][  6]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.50:051][  6]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.53.53:668][171]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.53.55:190][254]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.53.56:682][333]LogBlueprintUserMessages: [BP_pufferFish_C_3] hit player
+[2023.03.02-21.53.58:991][452]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-21.53.58:991][452]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-21.54.00:491][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:491][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:492][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:493][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:494][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:495][536]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.00:525][538]LogCharacterMovement: BP_pufferFish_C_6 is stuck and failed to move! Velocity: X=-32.20 Y=-11.33 Z=0.00 Location: X=1200.00 Y=1232.68 Z=21.63 Normal: X=-0.00 Y=0.85 Z=0.52 PenetrationDepth:25.125 Actor:BP_enemySpawner_C_1 Component:EverythingLibrary_Animals_001_alt356 BoneName:None (0 other events since notify)
+[2023.03.02-21.54.00:525][538]LogCharacterMovement: BP_pufferFish_C_9 is stuck and failed to move! Velocity: X=5.69 Y=-33.66 Z=0.00 Location: X=-1200.00 Y=1238.96 Z=25.46 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:24.594 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.54.06:471][874]LogBlueprintUserMessages: [BP_pufferFish_C_7] hit player
+[2023.03.02-21.54.10:046][ 81]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-21.54.10:046][ 81]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-21.54.12:139][203]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.54.13:632][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.54.13:632][289]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.54.13:632][289]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-21.54.13:632][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.54.13:637][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-21.54.13:647][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.54.13:739][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.54.13:739][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.02-21.54.13:742][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.03.02-21.54.13:752][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.03.02-21.54.13:782][290]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.03.02-21.54.20:213][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.54.20:369][523]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.54.20:370][523]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFish63FBCB2B48355D33D85236A9844A4349.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.54.20:389][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 3.84 sec)
+[2023.03.02-21.54.20:401][523]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.54.20:401][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.54.22:431][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.02-21.54.22:445][601]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-21.54.22:450][601]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-21.54.22:607][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.03.02-21.54.22:609][601]LogPlayLevel: PlayLevel: Blueprint regeneration took 164 ms (1 blueprints)
+[2023.03.02-21.54.22:609][601]PIE: New page: PIE session: basicMap (2 Mar 2023, 21:54:22)
+[2023.03.02-21.54.22:609][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.54.22:613][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004106s)
+[2023.03.02-21.54.22:613][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.004150s)
+[2023.03.02-21.54.22:613][601]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.54.22:614][601]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-21.54.22:614][601]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2023.03.02-21.54.22:697][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.02-21.54.22:698][601]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-21.54.22:698][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-21.54.22:698][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-21.54.22:698][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-21.54.22:700][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-21.54.22:700][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-21.54.22:703][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-21.54.22:726][601]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-21.54.22:726][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-21.54.22:726][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-21.54.22:726][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-21.54.22:727][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.03.02-21.54.22:727][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.03.02-21.54.22:730][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.03.02-21.54.22:730][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.03.02-21.54.22:730][601]LogInit: FAudioDevice initialized.
+[2023.03.02-21.54.22:730][601]LogAudio: Display: Audio Device (ID: 11) registered with world 'basicMap'.
+[2023.03.02-21.54.22:735][601]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-21.54.22:736][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-21.54.22
+[2023.03.02-21.54.22:736][601]LogWorld: Bringing up level for play took: 0.001188
+[2023.03.02-21.54.22:739][601]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.03.02-21.54.22:741][601]PIE: Server logged in
+[2023.03.02-21.54.22:742][601]PIE: Play in editor total start time 0.298 seconds.
+[2023.03.02-21.54.24:754][651]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.24:755][651]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.24:756][651]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.24:757][651]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.54.31:732][ 55]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.54.31:732][ 55]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.54.35:503][271]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.54.38:771][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.54.38:771][457]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.54.38:771][457]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-21.54.38:772][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.54.38:777][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-21.54.38:790][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.54.38:881][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.54.38:881][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.02-21.54.38:883][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.03.02-21.54.38:894][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.03.02-21.54.38:930][458]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.02-21.55.14:772][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.02-21.55.14:918][747]LogSavePackage: Moving output files for package: /Game/Animals/fish2D/BP_pufferFish
+[2023.03.02-21.55.14:919][747]LogSavePackage: Moving '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Saved/BP_pufferFish143EA32248D64618377A4BA45277243D.tmp' to '../../../../../../Users/Rafae/Desktop/School_I_guess/4_ano/DDJD/DDJD_PP/src/DyeOrDie/Content/Animals/fish2D/BP_pufferFish.uasset'
+[2023.03.02-21.55.14:938][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 4.01 sec)
+[2023.03.02-21.55.14:951][747]AssetCheck: New page: Asset Save: BP_pufferFish
+[2023.03.02-21.55.14:951][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animals/fish2D/BP_pufferFish.BP_pufferFish
+[2023.03.02-21.55.17:412][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.02-21.55.17:423][839]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-21.55.17:428][839]LogPlayLevel: [PlayLevel] Compiling BP_pufferFish before play...
+[2023.03.02-21.55.17:611][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.03.02-21.55.17:612][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (1 blueprints)
+[2023.03.02-21.55.17:612][839]PIE: New page: PIE session: basicMap (2 Mar 2023, 21:55:17)
+[2023.03.02-21.55.17:613][839]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.55.17:617][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004591s)
+[2023.03.02-21.55.17:617][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/basicMap.basicMap to /Game/Maps/UEDPIE_0_basicMap.basicMap (0.004641s)
+[2023.03.02-21.55.17:617][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.02-21.55.17:618][839]LogAIModule: Creating AISystem for world basicMap
+[2023.03.02-21.55.17:618][839]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2023.03.02-21.55.17:701][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.02-21.55.17:702][839]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.02-21.55.17:702][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.02-21.55.17:702][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-21.55.17:703][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-21.55.17:703][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-21.55.17:703][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-21.55.17:706][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.02-21.55.17:728][839]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.03.02-21.55.17:728][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-21.55.17:728][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-21.55.17:728][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-21.55.17:731][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.03.02-21.55.17:731][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.03.02-21.55.17:734][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.03.02-21.55.17:734][839]LogInit: FAudioDevice initialized.
+[2023.03.02-21.55.17:734][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.03.02-21.55.17:734][839]LogAudio: Display: Audio Device (ID: 12) registered with world 'basicMap'.
+[2023.03.02-21.55.17:738][839]LogLoad: Game class is 'GM_base_C'
+[2023.03.02-21.55.17:739][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_basicMap.basicMap up for play (max tick rate 60) at 2023.03.02-21.55.17
+[2023.03.02-21.55.17:739][839]LogWorld: Bringing up level for play took: 0.001322
+[2023.03.02-21.55.17:742][839]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.03.02-21.55.17:745][839]PIE: Server logged in
+[2023.03.02-21.55.17:746][839]PIE: Play in editor total start time 0.323 seconds.
+[2023.03.02-21.55.20:665][882]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.20:666][882]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.20:669][882]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.20:671][882]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.24:594][108]LogBlueprintUserMessages: [BP_grenade_C_1] destroyed puffer fish
+[2023.03.02-21.55.29:073][364]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.55.29:073][364]LogBlueprintUserMessages: [BP_grenade_C_2] destroyed puffer fish
+[2023.03.02-21.55.31:476][502]LogBlueprintUserMessages: [BP_grenade_C_3] destroyed puffer fish
+[2023.03.02-21.55.32:963][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:964][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:966][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:967][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:968][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:968][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:970][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.32:971][589]LogTemp: Warning: No animation class defined on 'Animation', cannot create instance.
+[2023.03.02-21.55.33:002][591]LogCharacterMovement: BP_pufferFish_C_5 is stuck and failed to move! Velocity: X=-32.39 Y=10.77 Z=0.00 Location: X=1200.00 Y=-1170.00 Z=21.07 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:28.979 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.55.33:003][591]LogCharacterMovement: BP_pufferFish_C_7 is stuck and failed to move! Velocity: X=-28.09 Y=-19.39 Z=0.00 Location: X=1200.00 Y=1238.43 Z=25.13 Normal: X=-0.00 Y=0.85 Z=0.52 PenetrationDepth:18.391 Actor:BP_enemySpawner_C_1 Component:EverythingLibrary_Animals_001_alt356 BoneName:None (0 other events since notify)
+[2023.03.02-21.55.33:003][591]LogCharacterMovement: BP_pufferFish_C_9 is stuck and failed to move! Velocity: X=26.29 Y=21.77 Z=0.00 Location: X=-1200.00 Y=-1167.33 Z=24.65 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:25.403 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.55.33:004][591]LogCharacterMovement: BP_pufferFish_C_11 is stuck and failed to move! Velocity: X=11.96 Y=-31.97 Z=0.00 Location: X=-1200.00 Y=1238.69 Z=25.29 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:24.757 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.02-21.55.36:495][791]LogBlueprintUserMessages: [BP_grenade_C_4] destroyed puffer fish
+[2023.03.02-21.55.39:643][973]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.55.39:643][973]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.55.39:643][973]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.55.39:644][973]LogBlueprintUserMessages: [BP_grenade_C_5] destroyed puffer fish
+[2023.03.02-21.55.41:774][ 94]LogBlueprintUserMessages: [BP_grenade_C_6] destroyed puffer fish
+[2023.03.02-21.55.43:744][205]LogBlueprintUserMessages: [BP_grenade_C_7] destroyed puffer fish
+[2023.03.02-21.55.43:744][205]LogBlueprintUserMessages: [BP_grenade_C_7] destroyed puffer fish
+[2023.03.02-21.55.44:761][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.55.44:762][264]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_basicMap
+[2023.03.02-21.55.44:762][264]LogWorld: UWorld::CleanupWorld for basicMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-21.55.44:762][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.55.44:784][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-21.55.44:795][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-21.55.44:884][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-21.55.44:884][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.02-21.55.44:887][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.02-21.55.44:900][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.02-21.55.44:935][265]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.03.02-21.55.52:666][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
