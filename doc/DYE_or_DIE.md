@@ -65,16 +65,40 @@ cenario (agua/oceano)
 
 
 #### TODO
+
+puffer fish death animation
+
+projetil
+- logica toda do projetil em si
+- jogador lançar o projetil
+- matar/fazer dano aos peixes
+
+polvo
+- logica toda do polvo
+    - não esquecer dos pontos de vida
+    - mover se
+    - lançar tinta
+- visual do polvo
+    - animação de movimento!
+
+COLLECTIBLES - todos
+- vida maxima - aka coração roxo no chão
+
 change main character
+- pintar de roxo
 
-set up bomba:
-    * sprite de explosão (falta implementar)
+power ups - todos
+- disparar mais rapido
+    - visual idk varias bombas/projeteis
+- boost score
+    - icon do score
+- escudo temporario
+    - icon de escudo
 
-missing puffer fish:
-    * death animation (falta implementar)
-    * respawn!!! 
+cenario
+- ver depois
 
-score
-
-cenario:
-    * arranjar um barco (porta avioes em unreal)
+icons/UI improvements
+- score
+- quando pode disparar
+- ver a arma selecionada
