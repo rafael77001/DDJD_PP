@@ -68,11 +68,6 @@ cenario (agua/oceano)
 
 puffer fish death animation
 
-projetil
-- logica toda do projetil em si
-- jogador lançar o projetil
-- matar/fazer dano aos peixes
-
 polvo
 - logica toda do polvo
     - não esquecer dos pontos de vida
@@ -100,5 +95,13 @@ cenario
 
 icons/UI improvements
 - score
+
+#### DONE
+projetil
+- logica toda do projetil em si
+- jogador lançar o projetil
+- matar/fazer dano aos peixes
+
+
 - quando pode disparar
 - ver a arma selecionada
